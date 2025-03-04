@@ -14,15 +14,10 @@ class Solution:
             counts_s1[ord(s1[i])-97]+=1
             counts_s2[ord(s2[i])-97]+=1
 
-        if counts_s1==counts_s2:
-            return True
         
-        for i in range(n1,n2):
-            counts_s2[ord(s2[i])-97]+=1
-            counts_s2[ord(s2[i-n1])-97]-=1
-            if counts_s1==counts_s2:
-                return True
-        return False
+        
+            
+        return counts_s1==counts_s2
 
 
         
