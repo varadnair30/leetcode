@@ -21,4 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/varadnair30/leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/varadnair30/leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/varadnair30/leetcode/tree/master/1646-kth-missing-positive-number) |
+## String
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/varadnair30/leetcode/tree/master/1078-remove-outermost-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/varadnair30/leetcode/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
