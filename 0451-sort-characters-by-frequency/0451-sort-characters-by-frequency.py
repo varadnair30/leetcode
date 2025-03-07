@@ -1,11 +1,23 @@
-from collections import Counter
+from collections import Counter, defaultdict
 class Solution:
     def frequencySort(self, s: str) -> str:
 
         mpp=Counter(s)
-        sorted_chars=sorted(mpp.keys(), key=lambda x: -mpp[x])
+        buckets= defaultdict(list)
+        for char, cnt in mpp.items():
+            buckets[cnt].append(char)
 
-        return "".join(x * mpp[x] for x in sorted_chars)
+        res=[]
+
+        for i in range(len(s),0,-1):
+
+            for c in buckets[i]:
+                
+                res.append(c*i)
+        return ''.join(res)
+
+
+        
 
         
 
