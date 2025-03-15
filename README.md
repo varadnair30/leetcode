@@ -101,4 +101,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/varadnair30/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/varadnair30/leetcode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/varadnair30/leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
