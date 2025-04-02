@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/varadnair30/leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/varadnair30/leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/varadnair30/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2308-divide-array-into-equal-pairs](https://github.com/varadnair30/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/varadnair30/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/varadnair30/leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/varadnair30/leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2308-divide-array-into-equal-pairs](https://github.com/varadnair30/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 ## String Matching
 |  |
 | ------- |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/varadnair30/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/varadnair30/leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/varadnair30/leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2308-divide-array-into-equal-pairs](https://github.com/varadnair30/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Sliding Window
 |  |
 | ------- |
@@ -141,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/varadnair30/leetcode/tree/master/0148-sort-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2308-divide-array-into-equal-pairs](https://github.com/varadnair30/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 <!---LeetCode Topics End-->
