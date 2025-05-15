@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/varadnair30/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/varadnair30/leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/varadnair30/leetcode/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
+| [3636-check-balanced-string](https://github.com/varadnair30/leetcode/tree/master/3636-check-balanced-string) |
 ## Stack
 |  |
 | ------- |
