@@ -14,13 +14,13 @@ class Solution:
 
         cur=root.val
 
-        if cur < p.val and cur < q.val:
-            return self.lowestCommonAncestor(root.right,p,q)
+        if cur < p.val and cur < q.val:                            # if both of them lie on the right
+            return self.lowestCommonAncestor(root.right,p,q)       # lets go to the right
 
-        if cur > p.val and cur > q.val:
-            return self.lowestCommonAncestor(root.left,p,q)
+        if cur > p.val and cur > q.val:                            # if both of them lie on the left
+            return self.lowestCommonAncestor(root.left,p,q)        # lets go to the left
 
-        return root
+        return root                                                # if can't determine where to go ,  its firstpoint of intersection
         '''
         if not root:
             return None
