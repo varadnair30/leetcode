@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/varadnair30/leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/varadnair30/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/varadnair30/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0286-walls-and-gates](https://github.com/varadnair30/leetcode/tree/master/0286-walls-and-gates) |
 | [0347-top-k-frequent-elements](https://github.com/varadnair30/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0463-island-perimeter](https://github.com/varadnair30/leetcode/tree/master/0463-island-perimeter) |
 | [0540-single-element-in-a-sorted-array](https://github.com/varadnair30/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/varadnair30/leetcode/tree/master/0036-valid-sudoku) |
 | [0200-number-of-islands](https://github.com/varadnair30/leetcode/tree/master/0200-number-of-islands) |
+| [0286-walls-and-gates](https://github.com/varadnair30/leetcode/tree/master/0286-walls-and-gates) |
 | [0463-island-perimeter](https://github.com/varadnair30/leetcode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/varadnair30/leetcode/tree/master/0695-max-area-of-island) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/varadnair30/leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/varadnair30/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/varadnair30/leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/varadnair30/leetcode/tree/master/0226-invert-binary-tree) |
+| [0286-walls-and-gates](https://github.com/varadnair30/leetcode/tree/master/0286-walls-and-gates) |
 | [0463-island-perimeter](https://github.com/varadnair30/leetcode/tree/master/0463-island-perimeter) |
 | [0662-maximum-width-of-binary-tree](https://github.com/varadnair30/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/varadnair30/leetcode/tree/master/0695-max-area-of-island) |
