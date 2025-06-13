@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/varadnair30/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/varadnair30/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/varadnair30/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0684-redundant-connection](https://github.com/varadnair30/leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/varadnair30/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/varadnair30/leetcode/tree/master/0733-flood-fill) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/varadnair30/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/varadnair30/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/varadnair30/leetcode/tree/master/0463-island-perimeter) |
 | [0662-maximum-width-of-binary-tree](https://github.com/varadnair30/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0684-redundant-connection](https://github.com/varadnair30/leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/varadnair30/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/varadnair30/leetcode/tree/master/0733-flood-fill) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/varadnair30/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -356,10 +358,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/varadnair30/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/varadnair30/leetcode/tree/master/0200-number-of-islands) |
 | [0261-graph-valid-tree](https://github.com/varadnair30/leetcode/tree/master/0261-graph-valid-tree) |
+| [0684-redundant-connection](https://github.com/varadnair30/leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/varadnair30/leetcode/tree/master/0695-max-area-of-island) |
 ## Graph
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/varadnair30/leetcode/tree/master/0133-clone-graph) |
 | [0261-graph-valid-tree](https://github.com/varadnair30/leetcode/tree/master/0261-graph-valid-tree) |
+| [0684-redundant-connection](https://github.com/varadnair30/leetcode/tree/master/0684-redundant-connection) |
 <!---LeetCode Topics End-->
