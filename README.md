@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/varadnair30/leetcode/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/varadnair30/leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/varadnair30/leetcode/tree/master/0202-happy-number) |
 | [1014-k-closest-points-to-origin](https://github.com/varadnair30/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [2032-largest-odd-number-in-string](https://github.com/varadnair30/leetcode/tree/master/2032-largest-odd-number-in-string) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/varadnair30/leetcode/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/varadnair30/leetcode/tree/master/0070-climbing-stairs) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -373,4 +375,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0271-encode-and-decode-strings](https://github.com/varadnair30/leetcode/tree/master/0271-encode-and-decode-strings) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/varadnair30/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
