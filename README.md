@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1966-frequency-of-the-most-frequent-element](https://github.com/varadnair30/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/varadnair30/leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2308-divide-array-into-equal-pairs](https://github.com/varadnair30/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [3885-count-special-triplets](https://github.com/varadnair30/leetcode/tree/master/3885-count-special-triplets) |
 ## Binary Search
 |  |
 | ------- |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/varadnair30/leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2308-divide-array-into-equal-pairs](https://github.com/varadnair30/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/varadnair30/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3885-count-special-triplets](https://github.com/varadnair30/leetcode/tree/master/3885-count-special-triplets) |
 ## String Matching
 |  |
 | ------- |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/varadnair30/leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/varadnair30/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/varadnair30/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3885-count-special-triplets](https://github.com/varadnair30/leetcode/tree/master/3885-count-special-triplets) |
 ## Sliding Window
 |  |
 | ------- |
