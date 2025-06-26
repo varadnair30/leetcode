@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/varadnair30/leetcode/tree/master/1036-rotting-oranges) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/varadnair30/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1127-last-stone-weight](https://github.com/varadnair30/leetcode/tree/master/1127-last-stone-weight) |
+| [1165-meeting-scheduler](https://github.com/varadnair30/leetcode/tree/master/1165-meeting-scheduler) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/varadnair30/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/varadnair30/leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1580-shuffle-the-array](https://github.com/varadnair30/leetcode/tree/master/1580-shuffle-the-array) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/varadnair30/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/varadnair30/leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/varadnair30/leetcode/tree/master/0234-palindrome-linked-list) |
+| [1165-meeting-scheduler](https://github.com/varadnair30/leetcode/tree/master/1165-meeting-scheduler) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/varadnair30/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Math
 |  |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/varadnair30/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1014-k-closest-points-to-origin](https://github.com/varadnair30/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/varadnair30/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1165-meeting-scheduler](https://github.com/varadnair30/leetcode/tree/master/1165-meeting-scheduler) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/varadnair30/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Heap (Priority Queue)
 |  |
