@@ -9,7 +9,7 @@ class Solution:
         # Priority queue: (effort_so_far, row, col)
         pq = [(0, 0, 0)]
         
-        # Distance matrix: minimal effort to reach cell (i, j)
+        # Distance matrix: minimal effort to reach cell (i, j) 
         dist = [[float('inf')] * m for _ in range(n)]
         dist[0][0] = 0
         
