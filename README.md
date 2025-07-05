@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/varadnair30/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/varadnair30/leetcode/tree/master/1036-rotting-oranges) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/varadnair30/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1073-number-of-enclaves](https://github.com/varadnair30/leetcode/tree/master/1073-number-of-enclaves) |
 | [1127-last-stone-weight](https://github.com/varadnair30/leetcode/tree/master/1127-last-stone-weight) |
 | [1165-meeting-scheduler](https://github.com/varadnair30/leetcode/tree/master/1165-meeting-scheduler) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/varadnair30/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/varadnair30/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/varadnair30/leetcode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/varadnair30/leetcode/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/varadnair30/leetcode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/varadnair30/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/varadnair30/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/varadnair30/leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/varadnair30/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/varadnair30/leetcode/tree/master/0733-flood-fill) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/varadnair30/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1073-number-of-enclaves](https://github.com/varadnair30/leetcode/tree/master/1073-number-of-enclaves) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/varadnair30/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1753-path-with-minimum-effort](https://github.com/varadnair30/leetcode/tree/master/1753-path-with-minimum-effort) |
 ## Binary Tree
@@ -378,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/varadnair30/leetcode/tree/master/0733-flood-fill) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/varadnair30/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/varadnair30/leetcode/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/varadnair30/leetcode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/varadnair30/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/varadnair30/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1753-path-with-minimum-effort](https://github.com/varadnair30/leetcode/tree/master/1753-path-with-minimum-effort) |
@@ -407,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0261-graph-valid-tree](https://github.com/varadnair30/leetcode/tree/master/0261-graph-valid-tree) |
 | [0684-redundant-connection](https://github.com/varadnair30/leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/varadnair30/leetcode/tree/master/0695-max-area-of-island) |
+| [1073-number-of-enclaves](https://github.com/varadnair30/leetcode/tree/master/1073-number-of-enclaves) |
 | [1753-path-with-minimum-effort](https://github.com/varadnair30/leetcode/tree/master/1753-path-with-minimum-effort) |
 ## Graph
 |  |
