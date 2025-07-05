@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/varadnair30/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/varadnair30/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/varadnair30/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/varadnair30/leetcode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/varadnair30/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/varadnair30/leetcode/tree/master/0733-flood-fill) |
 | [0907-koko-eating-bananas](https://github.com/varadnair30/leetcode/tree/master/0907-koko-eating-bananas) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0286-walls-and-gates](https://github.com/varadnair30/leetcode/tree/master/0286-walls-and-gates) |
 | [0417-pacific-atlantic-water-flow](https://github.com/varadnair30/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/varadnair30/leetcode/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/varadnair30/leetcode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/varadnair30/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/varadnair30/leetcode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/varadnair30/leetcode/tree/master/1036-rotting-oranges) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/varadnair30/leetcode/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/varadnair30/leetcode/tree/master/0070-climbing-stairs) |
+| [0542-01-matrix](https://github.com/varadnair30/leetcode/tree/master/0542-01-matrix) |
 | [1013-fibonacci-number](https://github.com/varadnair30/leetcode/tree/master/1013-fibonacci-number) |
 ## Monotonic Stack
 |  |
@@ -368,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/varadnair30/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/varadnair30/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/varadnair30/leetcode/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/varadnair30/leetcode/tree/master/0542-01-matrix) |
 | [0662-maximum-width-of-binary-tree](https://github.com/varadnair30/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/varadnair30/leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/varadnair30/leetcode/tree/master/0695-max-area-of-island) |
