@@ -1,16 +1,17 @@
-import heapq
-
 class Solution:
-    def findItinerary(self, tickets):
+    def findItinerary(self, tickets: List[List[str]]) -> List[str]:
         adj = defaultdict(list)
-        for u, v in tickets:
-            heapq.heappush(adj[u], v)
-
+        for src, dst in sorted(tickets)[::-1]:
+            adj[src].append(dst)
+            
+        stack = ["JFK"]
         res = []
-        def dfs(node):
-            while adj[node]:
-                dfs(heapq.heappop(adj[node]))
-            res.append(node)
-
-        dfs("JFK")
+        
+        while stack:
+            curr = stack[-1]
+            if not adj[curr]:
+                res.append(stack.pop())
+            else:
+                stack.append(adj[curr].pop())
+                
         return res[::-1]
