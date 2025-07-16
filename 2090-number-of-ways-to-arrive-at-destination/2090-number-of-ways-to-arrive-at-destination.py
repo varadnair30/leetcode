@@ -5,7 +5,7 @@ from collections import defaultdict
 class Solution:
     def countPaths(self, n: int, roads: List[List[int]]) -> int:
         # Step 1: Create adjacency list
-        adj = [[] for _ in range(n)]
+        adj = defaultdict(list)
         for u, v, wt in roads:
             adj[u].append((v, wt))
             adj[v].append((u, wt))
