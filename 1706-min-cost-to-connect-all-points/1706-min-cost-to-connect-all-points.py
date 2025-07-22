@@ -3,40 +3,44 @@ class Solution:
     def minCostConnectPoints(self, points: List[List[int]]) -> int:
 
 
-        N=len(points)
+        V = len(points)
 
-        adj={ i:[] for i in range(N)}
+        # Step 1: Build the adjacency list using Manhattan distance
+        adj = [[] for _ in range(V)]
+        for i in range(V):
+            x1, y1 = points[i]
+            for j in range(i+1, V):
+                x2, y2 = points[j]
+                dist = abs(x1 - x2) + abs(y1 - y2)
+                adj[i].append([j, dist])
+                adj[j].append([i, dist])
 
-        for i in range(N):
-            x1,y1 = points[i]
-            for j in range(i+1,N):
-                x2,y2=points[j]
+        # Step 2: Use the standard Prim’s logic
+        return self.spanningTree(V, adj)
 
-                dist=abs(x1-x2)+abs(y1-y2)
+    # Prim's Algorithm
+    def spanningTree(self, V: int, adj: List[List[int]]) -> int:
+        vis = [0] * V
+        min_Heap = [(0, 0)]  # (weight, node)
+        mst_weight = 0
 
-                adj[i].append([dist,j])
-                adj[j].append([dist,i])
+        while min_Heap:
+            wt, node = heapq.heappop(min_Heap)
 
-        res=0
+            if vis[node]:
+                continue
 
-        visit=set()
+            vis[node] = 1
+            mst_weight += wt
 
-        minH=[[0,0]]
+            for neighbor in adj[node]:
+                adj_node = neighbor[0]
+                edge_weight = neighbor[1]
 
-        while len(visit)<N:
+                if not vis[adj_node]:
+                    heapq.heappush(min_Heap, (edge_weight, adj_node))
 
-            cost, i= heapq.heappop(minH)
-            if i in visit: continue
-
-            res+=cost
-
-            visit.add(i)
-
-            for neiCost, nei in adj[i]:
-                if nei not in visit:
-                    heapq.heappush(minH,[neiCost,nei])
-
-        return res
+        return mst_weight
 
 
 
