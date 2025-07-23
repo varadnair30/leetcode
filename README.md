@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/varadnair30/leetcode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/varadnair30/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/varadnair30/leetcode/tree/master/0733-flood-fill) |
+| [0794-swim-in-rising-water](https://github.com/varadnair30/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0907-koko-eating-bananas](https://github.com/varadnair30/leetcode/tree/master/0907-koko-eating-bananas) |
 | [1014-k-closest-points-to-origin](https://github.com/varadnair30/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/varadnair30/leetcode/tree/master/1036-rotting-oranges) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/varadnair30/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/varadnair30/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0540-single-element-in-a-sorted-array](https://github.com/varadnair30/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0794-swim-in-rising-water](https://github.com/varadnair30/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0907-koko-eating-bananas](https://github.com/varadnair30/leetcode/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/varadnair30/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/varadnair30/leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/varadnair30/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/varadnair30/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0744-network-delay-time](https://github.com/varadnair30/leetcode/tree/master/0744-network-delay-time) |
+| [0794-swim-in-rising-water](https://github.com/varadnair30/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/varadnair30/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1014-k-closest-points-to-origin](https://github.com/varadnair30/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/varadnair30/leetcode/tree/master/1127-last-stone-weight) |
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/varadnair30/leetcode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/varadnair30/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/varadnair30/leetcode/tree/master/0733-flood-fill) |
+| [0794-swim-in-rising-water](https://github.com/varadnair30/leetcode/tree/master/0794-swim-in-rising-water) |
 | [1036-rotting-oranges](https://github.com/varadnair30/leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/varadnair30/leetcode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/varadnair30/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -345,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0711-number-of-distinct-islands-ii](https://github.com/varadnair30/leetcode/tree/master/0711-number-of-distinct-islands-ii) |
 | [0733-flood-fill](https://github.com/varadnair30/leetcode/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/varadnair30/leetcode/tree/master/0744-network-delay-time) |
+| [0794-swim-in-rising-water](https://github.com/varadnair30/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/varadnair30/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/varadnair30/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/varadnair30/leetcode/tree/master/1073-number-of-enclaves) |
@@ -399,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0711-number-of-distinct-islands-ii](https://github.com/varadnair30/leetcode/tree/master/0711-number-of-distinct-islands-ii) |
 | [0733-flood-fill](https://github.com/varadnair30/leetcode/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/varadnair30/leetcode/tree/master/0744-network-delay-time) |
+| [0794-swim-in-rising-water](https://github.com/varadnair30/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/varadnair30/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/varadnair30/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/varadnair30/leetcode/tree/master/1036-rotting-oranges) |
@@ -437,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0694-number-of-distinct-islands](https://github.com/varadnair30/leetcode/tree/master/0694-number-of-distinct-islands) |
 | [0695-max-area-of-island](https://github.com/varadnair30/leetcode/tree/master/0695-max-area-of-island) |
 | [0711-number-of-distinct-islands-ii](https://github.com/varadnair30/leetcode/tree/master/0711-number-of-distinct-islands-ii) |
+| [0794-swim-in-rising-water](https://github.com/varadnair30/leetcode/tree/master/0794-swim-in-rising-water) |
 | [1073-number-of-enclaves](https://github.com/varadnair30/leetcode/tree/master/1073-number-of-enclaves) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/varadnair30/leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1706-min-cost-to-connect-all-points](https://github.com/varadnair30/leetcode/tree/master/1706-min-cost-to-connect-all-points) |
