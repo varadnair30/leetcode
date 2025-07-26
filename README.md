@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/varadnair30/leetcode/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/varadnair30/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [2032-largest-odd-number-in-string](https://github.com/varadnair30/leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2050-count-good-numbers](https://github.com/varadnair30/leetcode/tree/master/2050-count-good-numbers) |
 ## Greedy
 |  |
 | ------- |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/varadnair30/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/varadnair30/leetcode/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/varadnair30/leetcode/tree/master/1013-fibonacci-number) |
+| [2050-count-good-numbers](https://github.com/varadnair30/leetcode/tree/master/2050-count-good-numbers) |
 ## Divide and Conquer
 |  |
 | ------- |
