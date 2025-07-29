@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/varadnair30/leetcode/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/varadnair30/leetcode/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/varadnair30/leetcode/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/varadnair30/leetcode/tree/master/0046-permutations) |
 | [0057-insert-interval](https://github.com/varadnair30/leetcode/tree/master/0057-insert-interval) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/varadnair30/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0130-surrounded-regions](https://github.com/varadnair30/leetcode/tree/master/0130-surrounded-regions) |
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/varadnair30/leetcode/tree/master/0046-permutations) |
 | [0113-path-sum-ii](https://github.com/varadnair30/leetcode/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/varadnair30/leetcode/tree/master/0257-binary-tree-paths) |
 ## Geometry
