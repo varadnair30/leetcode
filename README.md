@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/varadnair30/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/varadnair30/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/varadnair30/leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [1949-implement-trie-ii-prefix-tree](https://github.com/varadnair30/leetcode/tree/master/1949-implement-trie-ii-prefix-tree) |
 | [2032-largest-odd-number-in-string](https://github.com/varadnair30/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/varadnair30/leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/varadnair30/leetcode/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/varadnair30/leetcode/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/varadnair30/leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [1949-implement-trie-ii-prefix-tree](https://github.com/varadnair30/leetcode/tree/master/1949-implement-trie-ii-prefix-tree) |
 ## Hash Table
 |  |
 | ------- |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0711-number-of-distinct-islands-ii](https://github.com/varadnair30/leetcode/tree/master/0711-number-of-distinct-islands-ii) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/varadnair30/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/varadnair30/leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [1949-implement-trie-ii-prefix-tree](https://github.com/varadnair30/leetcode/tree/master/1949-implement-trie-ii-prefix-tree) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/varadnair30/leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/varadnair30/leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2308-divide-array-into-equal-pairs](https://github.com/varadnair30/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -478,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/varadnair30/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0271-encode-and-decode-strings](https://github.com/varadnair30/leetcode/tree/master/0271-encode-and-decode-strings) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/varadnair30/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [1949-implement-trie-ii-prefix-tree](https://github.com/varadnair30/leetcode/tree/master/1949-implement-trie-ii-prefix-tree) |
 ## Memoization
 |  |
 | ------- |
