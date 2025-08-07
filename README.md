@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/varadnair30/leetcode/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/varadnair30/leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/varadnair30/leetcode/tree/master/0046-permutations) |
+| [0053-maximum-subarray](https://github.com/varadnair30/leetcode/tree/master/0053-maximum-subarray) |
 | [0057-insert-interval](https://github.com/varadnair30/leetcode/tree/master/0057-insert-interval) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/varadnair30/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0130-surrounded-regions](https://github.com/varadnair30/leetcode/tree/master/0130-surrounded-regions) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/varadnair30/leetcode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/varadnair30/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0148-sort-list](https://github.com/varadnair30/leetcode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/varadnair30/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/varadnair30/leetcode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/varadnair30/leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/varadnair30/leetcode/tree/master/0070-climbing-stairs) |
 | [0542-01-matrix](https://github.com/varadnair30/leetcode/tree/master/0542-01-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/varadnair30/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
