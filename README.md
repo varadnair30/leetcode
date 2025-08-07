@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/varadnair30/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/varadnair30/leetcode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/varadnair30/leetcode/tree/master/0695-max-area-of-island) |
+| [0697-degree-of-an-array](https://github.com/varadnair30/leetcode/tree/master/0697-degree-of-an-array) |
 | [0733-flood-fill](https://github.com/varadnair30/leetcode/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/varadnair30/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0907-koko-eating-bananas](https://github.com/varadnair30/leetcode/tree/master/0907-koko-eating-bananas) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/varadnair30/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/varadnair30/leetcode/tree/master/0496-next-greater-element-i) |
 | [0694-number-of-distinct-islands](https://github.com/varadnair30/leetcode/tree/master/0694-number-of-distinct-islands) |
+| [0697-degree-of-an-array](https://github.com/varadnair30/leetcode/tree/master/0697-degree-of-an-array) |
 | [0711-number-of-distinct-islands-ii](https://github.com/varadnair30/leetcode/tree/master/0711-number-of-distinct-islands-ii) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/varadnair30/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/varadnair30/leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
