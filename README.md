@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/varadnair30/leetcode/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/varadnair30/leetcode/tree/master/0053-maximum-subarray) |
 | [0057-insert-interval](https://github.com/varadnair30/leetcode/tree/master/0057-insert-interval) |
+| [0074-search-a-2d-matrix](https://github.com/varadnair30/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/varadnair30/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0130-surrounded-regions](https://github.com/varadnair30/leetcode/tree/master/0130-surrounded-regions) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/varadnair30/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/varadnair30/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/varadnair30/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/varadnair30/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0540-single-element-in-a-sorted-array](https://github.com/varadnair30/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/varadnair30/leetcode/tree/master/0036-valid-sudoku) |
+| [0074-search-a-2d-matrix](https://github.com/varadnair30/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/varadnair30/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/varadnair30/leetcode/tree/master/0200-number-of-islands) |
 | [0286-walls-and-gates](https://github.com/varadnair30/leetcode/tree/master/0286-walls-and-gates) |
