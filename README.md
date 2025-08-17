@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/varadnair30/leetcode/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/varadnair30/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/varadnair30/leetcode/tree/master/0079-word-search) |
+| [0090-subsets-ii](https://github.com/varadnair30/leetcode/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/varadnair30/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0130-surrounded-regions](https://github.com/varadnair30/leetcode/tree/master/0130-surrounded-regions) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/varadnair30/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/varadnair30/leetcode/tree/master/0090-subsets-ii) |
 | [2308-divide-array-into-equal-pairs](https://github.com/varadnair30/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Quickselect
 |  |
@@ -458,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/varadnair30/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/varadnair30/leetcode/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/varadnair30/leetcode/tree/master/0079-word-search) |
+| [0090-subsets-ii](https://github.com/varadnair30/leetcode/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/varadnair30/leetcode/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/varadnair30/leetcode/tree/master/0257-binary-tree-paths) |
 ## Geometry
