@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/varadnair30/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/varadnair30/leetcode/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/varadnair30/leetcode/tree/master/0036-valid-sudoku) |
+| [0040-combination-sum-ii](https://github.com/varadnair30/leetcode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/varadnair30/leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/varadnair30/leetcode/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/varadnair30/leetcode/tree/master/0053-maximum-subarray) |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/varadnair30/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/varadnair30/leetcode/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/varadnair30/leetcode/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/varadnair30/leetcode/tree/master/0113-path-sum-ii) |
