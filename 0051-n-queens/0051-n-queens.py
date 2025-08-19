@@ -8,7 +8,7 @@ class Solution:
 
             if leftrow[row]==0 and lowerDiagonal[row+col]==0 and upperDiagonal[n-1+col-row]==0:
                 board[row]=board[row][:col]+ 'Q'+ board[row][col+1:]
-
+                '''update helper arrays'''
                 leftrow[row]=1
 
                 lowerDiagonal[row+col]=1
@@ -17,7 +17,7 @@ class Solution:
                 self.solve(col+1,board,ans,leftrow, upperDiagonal, lowerDiagonal, n)
 
                 board[row]= board[row][:col]+'.'+board[row][col+1:]
-
+                '''Undo helper arrays and reset helper arrays so they can try another row'''
                 leftrow[row]=0
 
                 lowerDiagonal[row+col]=0
