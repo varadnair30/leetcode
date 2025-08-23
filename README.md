@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/varadnair30/leetcode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/varadnair30/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/varadnair30/leetcode/tree/master/0020-valid-parentheses) |
+| [0076-minimum-window-substring](https://github.com/varadnair30/leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/varadnair30/leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/varadnair30/leetcode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/varadnair30/leetcode/tree/master/0131-palindrome-partitioning) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/varadnair30/leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/varadnair30/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/varadnair30/leetcode/tree/master/0036-valid-sudoku) |
+| [0076-minimum-window-substring](https://github.com/varadnair30/leetcode/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/varadnair30/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0133-clone-graph](https://github.com/varadnair30/leetcode/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/varadnair30/leetcode/tree/master/0141-linked-list-cycle) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/varadnair30/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/varadnair30/leetcode/tree/master/0076-minimum-window-substring) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/varadnair30/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
