@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/varadnair30/leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/varadnair30/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/varadnair30/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/varadnair30/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0271-encode-and-decode-strings](https://github.com/varadnair30/leetcode/tree/master/0271-encode-and-decode-strings) |
 | [0286-walls-and-gates](https://github.com/varadnair30/leetcode/tree/master/0286-walls-and-gates) |
 | [0347-top-k-frequent-elements](https://github.com/varadnair30/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/varadnair30/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/varadnair30/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/varadnair30/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/varadnair30/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0744-network-delay-time](https://github.com/varadnair30/leetcode/tree/master/0744-network-delay-time) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/varadnair30/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/varadnair30/leetcode/tree/master/0076-minimum-window-substring) |
+| [0239-sliding-window-maximum](https://github.com/varadnair30/leetcode/tree/master/0239-sliding-window-maximum) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/varadnair30/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
@@ -542,4 +545,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1706-min-cost-to-connect-all-points](https://github.com/varadnair30/leetcode/tree/master/1706-min-cost-to-connect-all-points) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/varadnair30/leetcode/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/varadnair30/leetcode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
