@@ -14,7 +14,7 @@ class Solution:
             rem=preSum-k
             cnt= cnt+mpp[rem]
 
-            mpp[preSum]=1
+            mpp[preSum]+=1
 
         return cnt
 
