@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/varadnair30/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/varadnair30/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/varadnair30/leetcode/tree/master/0542-01-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/varadnair30/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0695-max-area-of-island](https://github.com/varadnair30/leetcode/tree/master/0695-max-area-of-island) |
 | [0697-degree-of-an-array](https://github.com/varadnair30/leetcode/tree/master/0697-degree-of-an-array) |
 | [0733-flood-fill](https://github.com/varadnair30/leetcode/tree/master/0733-flood-fill) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/varadnair30/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/varadnair30/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/varadnair30/leetcode/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/varadnair30/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0694-number-of-distinct-islands](https://github.com/varadnair30/leetcode/tree/master/0694-number-of-distinct-islands) |
 | [0697-degree-of-an-array](https://github.com/varadnair30/leetcode/tree/master/0697-degree-of-an-array) |
 | [0711-number-of-distinct-islands-ii](https://github.com/varadnair30/leetcode/tree/master/0711-number-of-distinct-islands-ii) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/varadnair30/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/varadnair30/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/varadnair30/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Linked List
 |  |
