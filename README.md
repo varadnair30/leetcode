@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/varadnair30/leetcode/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/varadnair30/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0130-surrounded-regions](https://github.com/varadnair30/leetcode/tree/master/0130-surrounded-regions) |
+| [0136-single-number](https://github.com/varadnair30/leetcode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/varadnair30/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/varadnair30/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/varadnair30/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/varadnair30/leetcode/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/varadnair30/leetcode/tree/master/0136-single-number) |
 | [2308-divide-array-into-equal-pairs](https://github.com/varadnair30/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Quickselect
 |  |
