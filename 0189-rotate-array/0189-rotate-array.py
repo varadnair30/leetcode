@@ -1,28 +1,15 @@
 class Solution:
-    def rotate(self, arr: List[int], k: int) -> None:
-        
-        
-        n = len(arr)
-        k = k%n  
-        
-        
-        
-        arr[:n-k] = reversed(arr[:n-k])
-        arr[n-k:] = reversed(arr[n-k:])
-        
-        
-        
-        
-        arr.reverse()
-        
-        
-           
-            
-            
-            
-        
-        
+    def rotate(self, nums: List[int], k: int) -> None:
         """
         Do not return anything, modify nums in-place instead.
         """
+        
+        n=len(nums)
+        k=k%n
+
+        nums[:n-k]=reversed(nums[:n-k])
+        nums[n-k:]=reversed(nums[n-k:])
+
+        nums.reverse()
+
         
