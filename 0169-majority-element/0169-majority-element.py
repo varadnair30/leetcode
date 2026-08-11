@@ -1,18 +1,25 @@
 class Solution:
-    def majorityElement(self, arr: List[int]) -> int:
-        count,ret=0,0
-        for i in arr:
-            if count==0:
-                ret=i
-            if i!=ret:
-                count-=1
+    def majorityElement(self, nums: List[int]) -> int:
+
+        n=len(nums)
+        cnt=el=0
+
+        for num in nums:
+
+            if cnt==0:
+                cnt=1
+                el=num
+            elif el==num:
+                cnt+=1
             else:
-                count+=1
-        return ret
+                cnt-=1
+
+        cnt1=nums.count(el)
+
+        return el if cnt1> (n//2) else -1
 
 
 
 
-        
 
         
