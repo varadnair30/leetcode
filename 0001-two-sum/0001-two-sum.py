@@ -1,13 +1,16 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        
-        resmap={}
-        for i in range(len(nums)):
-            if (target-nums[i]) in resmap:
-                return [resmap[target-nums[i]],i]
-            
-            resmap[nums[i]]=i
+
+        n=len(nums)
+        if n <=1: return []
+        mpp={}
+        preSum=0
+        for i in range(n):
+
+            if target-nums[i] in mpp:
+                return [mpp[target-nums[i]],i]
 
 
+            mpp[nums[i]]=i
 
-        
+
