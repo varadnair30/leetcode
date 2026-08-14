@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/varadnair30/leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/varadnair30/leetcode/tree/master/0053-maximum-subarray) |
 | [0057-insert-interval](https://github.com/varadnair30/leetcode/tree/master/0057-insert-interval) |
+| [0073-set-matrix-zeroes](https://github.com/varadnair30/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/varadnair30/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/varadnair30/leetcode/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/varadnair30/leetcode/tree/master/0079-word-search) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/varadnair30/leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/varadnair30/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/varadnair30/leetcode/tree/master/0036-valid-sudoku) |
+| [0073-set-matrix-zeroes](https://github.com/varadnair30/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/varadnair30/leetcode/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/varadnair30/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0133-clone-graph](https://github.com/varadnair30/leetcode/tree/master/0133-clone-graph) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/varadnair30/leetcode/tree/master/0036-valid-sudoku) |
+| [0073-set-matrix-zeroes](https://github.com/varadnair30/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/varadnair30/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/varadnair30/leetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/varadnair30/leetcode/tree/master/0130-surrounded-regions) |
