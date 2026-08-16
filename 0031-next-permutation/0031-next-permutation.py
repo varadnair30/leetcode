@@ -1,29 +1,37 @@
 class Solution:
     def nextPermutation(self, nums: List[int]) -> None:
 
-        breakPointIndex = -1
-        n=len(nums)
-        for i in range(n-2,-1,-1):
-            if(nums[i] < nums[i+1]):
-                breakPointIndex = i
+        index=-1
+        # set the dip point
+        for i in range(len(nums)-2,-1,-1):
+
+            if nums[i]<nums[i+1]:
+                index=i
                 break
-        
 
-        if breakPointIndex == -1:
-            nums[:] = nums[::-1]
-        else:
-            for i in range(n-1,breakPointIndex,-1):
-                
-                if nums[i] > nums[breakPointIndex]:
-                    nums[breakPointIndex],nums[i]=nums[i],nums[breakPointIndex]
-                    break
+        # if no dip point found
+        if index==-1:
+            nums.reverse()
+            return
 
-            nums[breakPointIndex + 1:]=nums[breakPointIndex + 1:][::-1]
+        # find just greater element
+        # loop till dip point & find just only next element greater
+        for i in range(len(nums)-1,index,-1):
+
+            if nums[i]>nums[index]:
+
+                nums[i], nums[index] = nums[index], nums[i]
+
+                break
+
+        nums[index+1 :] = reversed(nums[index+1:])
 
 
-        
-        
+
+
         """
         Do not return anything, modify nums in-place instead.
         """
+
+
         
