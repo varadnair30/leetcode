@@ -1,41 +1,47 @@
 from collections import Counter
 class Solution:
     def majorityElement(self, nums: List[int]) -> List[int]:
-        if not nums: return []
-        res=[]
-        counter=Counter(nums)
 
-        for num, count in counter.items():
+        cn1=cn2=0
+        elem1=elem2=float('-inf')
+        n=len(nums)
+        for i in range(n):
 
-            if count> (len(nums) // 3):
-                res.append(num)
+            if cn1==0 and elem2!=nums[i]:
+                cn1=1
+                elem1=nums[i]
 
-        return res
+            elif cn2==0 and elem1!=nums[i]:
+                cn2=1
+                elem2=nums[i]
 
+            elif nums[i]==elem1:
+                cn1+=1
+            elif nums[i]==elem2:
+                cn2+=1
+
+            else:
+                cn1-=1
+                cn2-=1
+
+        ls=[]
+        cnt1,cnt2=0,0
         
-'''
-class Solution:
-    def majorityElement(self, nums: List[int]) -> List[int]:
-        if not nums:
-            return []
-
-        # Dictionary to store the frequency of each element
-        counts = {}
-        for num in nums:
-            counts[num] = counts.get(num, 0) + 1
-
-        res = []
-        n = len(nums)
-        for num, count in counts.items():
-            if count > (n // 3):
-                res.append(num)
-
-        return res
-
-    '''
-
-        
-
+        for i in range(n):
+            if(elem1==nums[i]):
+                cnt1+=1
+            if(elem2==nums[i]):
+                cnt2+=1
+                
+        mini=(n//3) + 1
+        if(cnt1>=mini):
+            ls.append(elem1)
+        if(cnt2>=mini):
+            ls.append(elem2)
+        # ls.sort()
+        return ls
+            
+            
 
 
 
