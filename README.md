@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/varadnair30/leetcode/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/varadnair30/leetcode/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/varadnair30/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0088-merge-sorted-array](https://github.com/varadnair30/leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/varadnair30/leetcode/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/varadnair30/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/varadnair30/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/varadnair30/leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/varadnair30/leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/varadnair30/leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/varadnair30/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/varadnair30/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/varadnair30/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/varadnair30/leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/varadnair30/leetcode/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/varadnair30/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/varadnair30/leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/varadnair30/leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/varadnair30/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/varadnair30/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/varadnair30/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
