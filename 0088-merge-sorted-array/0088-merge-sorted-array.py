@@ -4,22 +4,22 @@ class Solution:
         Do not return anything, modify nums1 in-place instead.
         """
         
-        '''
-        - check if nums1<nums 2 , return []
-        - run a loop from m to m+n
-        - put nums2 items in nums1
-        - sort the nums1 array
-        
-        '''
+        i,j,k=m-1,n-1,m+n-1
 
-        #m,n=len(nums1),len(nums2)
+        while i>=0 and j>=0:
 
-        
-        # nums1=[1,2,3,0,0]
-        # nums2 = [2,5]
-        
-        for i in range(m,m+n):
-                nums1[i]=nums2[i-m] # nums2[3-2]
+            if nums1[i]>nums2[j]:
+                nums1[k]=nums1[i]
+                i-=1
+            else:
+                nums1[k]=nums2[j]
+                j-=1
+            k-=1
+        #if leftover nums2
 
+        while j>=0:
+            nums1[k] = nums2[j]
+            j-=1
+            k-=1
         
-        nums1.sort()
+        
