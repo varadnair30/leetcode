@@ -2,19 +2,29 @@ class Solution:
     def maxProduct(self, nums: List[int]) -> int:
 
         n=len(nums)
+
+        pre=suf=1
+
         ans=float('-inf')
-        pref=suff=1
+
         for i in range(n):
-            if pref==0:
-                pref=1
-            if suff==0:
-                suff=1
-            pref*=nums[i]
-            suff*=nums[n-i-1]
-            ans=max(ans,max(pref,suff))
+
+            if pre==0:
+                pre=1
+
+            if suf==0:
+                suf=1
+
+            pre*= nums[i]
+
+            suf*= nums[n-i-1]
+
+            ans=max(ans,suf,pre)
+
         return ans
 
-
         
+
+
 
         
