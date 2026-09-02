@@ -1,32 +1,38 @@
 class Solution:
-    def search(self, arr: List[int], target: int) -> bool:
+    def search(self, nums: List[int], target: int) -> bool:
 
-        low,high=0,len(arr)-1
+
+        if not nums: return False
+
+        low,high=0,len(nums)-1
 
         while low<=high:
 
             mid=(low+high)//2
 
-            if arr[mid]==target:
+            if nums[mid]==target:
                 return True
 
-            if arr[low]==arr[mid]==arr[high]:
+            if nums[low]==nums[mid]==nums[high]:
                 low+=1
                 high-=1
                 continue
-            if arr[low]<=arr[mid]:
-                if arr[low]<=target and target<=arr[mid]:
+
+            if nums[low]<=nums[mid]:
+
+                if nums[low]<=target and nums[mid]>=target:
                     high=mid-1
+
                 else:
                     low=mid+1
+
             else:
-                if arr[mid]<=target and target<=arr[high]:
+                if nums[mid]<=target and nums[high]>=target:
                     low=mid+1
+
                 else:
                     high=mid-1
 
         return False
-
-
 
         
