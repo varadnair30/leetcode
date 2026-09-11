@@ -1,19 +1,34 @@
 class Solution:
-    def findMin(self, arr: List[int]) -> int:
+    def findMin(self, nums: List[int]) -> int:
 
-        low,high=0,len(arr)-1
+
+        low,high=0,len(nums)-1
         ans=float('inf')
+
         while low<=high:
-            mid=(low+high)//2
-            if arr[low]<=arr[mid]:
-                ans=min(ans,arr[low])
+
+            mid=(low+ high)//2
+
+            #check if left half is sorted
+
+            if nums[low]<=nums[mid]:
+                ans=min(ans,nums[low])
                 low=mid+1
+                
 
-            else:
+            else: #check if right half is sorted
+                ans=min(ans,nums[mid])
+
                 high=mid-1
-                ans=min(ans,arr[mid])
-
-        return ans
 
         
+        return ans
+            
+
+
+
+        
+
+
+
         
